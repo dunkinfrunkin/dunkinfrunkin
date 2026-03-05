@@ -24,6 +24,7 @@ Senior Software Engineer at **Zillow** by day, agentic engineer by night. Neck-d
 | 🌐 | **[OpenAgentHub](https://openagenthub.io)** | A pattern catalog for architecting LLM-powered autonomous systems — agents that reason, use tools, remember, and self-correct. Framework-agnostic, model-agnostic, production-tested. |
 | 🧠 | **[OpenMem](https://github.com/dunkinfrunkin/openmem)** | Deterministic memory engine for AI agents. Because agents that forget are just expensive autocomplete. |
 | 🌊 | **[Drift](https://github.com/dunkinfrunkin/drift)** | Fast, zero-dependency database migration tool. Everything Flyway paywalls — undo, dry-run, cherry-pick, drift detection, schema diff — is free and open source. |
+| 🐱 | **[mdcat](https://github.com/dunkinfrunkin/mdcat)** | Terminal pager for Markdown. Full colour, syntax highlighting, incremental search, and mouse support — zero config. |
 
 ---
 
