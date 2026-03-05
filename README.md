@@ -13,7 +13,7 @@
 ![Codex](https://img.shields.io/badge/-Codex-412991?style=flat-square&logo=openai&logoColor=white)
 ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
 
-Senior Software Engineer at **Zillow** by day, agentic engineer by night. Neck-deep in the agent stack — cataloging the patterns that make LLM-powered systems actually work in production. Less vibes, more blueprints.
+Senior Software Engineer at **Zillow** by day, agentic engineer by night. Neck-deep in the agent stack cataloging the patterns that make LLM-powered systems actually work in production. Less vibes, more blueprints.
 
 ---
 
@@ -21,24 +21,24 @@ Senior Software Engineer at **Zillow** by day, agentic engineer by night. Neck-d
 
 | | Project | What it does |
 |---|---|---|
-| 🌐 | **[OpenAgentHub](https://openagenthub.io)** | A pattern catalog for architecting LLM-powered autonomous systems — agents that reason, use tools, remember, and self-correct. Framework-agnostic, model-agnostic, production-tested. |
-| 🧠 | **[OpenMem](https://github.com/dunkinfrunkin/openmem)** | Deterministic memory engine for AI agents. Because agents that forget are just expensive autocomplete. |
-| 🌊 | **[Drift](https://github.com/dunkinfrunkin/drift)** | Fast, zero-dependency database migration tool. Everything Flyway paywalls — undo, dry-run, cherry-pick, drift detection, schema diff — is free and open source. |
-| 🐱 | **[mdcat](https://github.com/dunkinfrunkin/mdcat)** | Terminal pager for Markdown. Full colour, syntax highlighting, incremental search, and mouse support — zero config. |
+| 🌐 | **[openagenthub](https://openagenthub.io)** | A pattern catalog for architecting LLM-powered autonomous systems agents that reason, use tools, remember, and self-correct. Framework-agnostic, model-agnostic, production-tested. |
+| 🧠 | **[openmem](https://github.com/dunkinfrunkin/openmem)** | Deterministic memory engine for AI agents. Because agents that forget are just expensive autocomplete. |
+| 🌊 | **[drift](https://github.com/dunkinfrunkin/drift)** | Fast, zero-dependency database migration tool. Everything Flyway paywalls undo, dry-run, cherry-pick, drift detection, schema diff is free and open source. |
+| 🐱 | **[mdcat](https://github.com/dunkinfrunkin/mdcat)** | Terminal pager for Markdown. Full colour, syntax highlighting, incremental search, and mouse support zero config. |
 
 ---
 
 ## 🔭 What I'm Working On
 
-- **Mapping the agent landscape** — Turning scattered tribal knowledge about AI agents into structured, reusable architecture patterns
-- **Memory systems for agents** — Building the primitives that let AI systems actually learn and retain context
-- **Bridging demo → production** — Most agent demos break in prod. I'm documenting why, and how to fix it.
+- **Mapping the agent landscape** Turning scattered tribal knowledge about AI agents into structured, reusable architecture patterns
+- **Memory systems for agents** Building the primitives that let AI systems actually learn and retain context
+- **Bridging demo → production** Most agent demos break in prod. I'm documenting why, and how to fix it.
 
 ---
 
 ## 🧭 Philosophy
 
-> "Patterns over frameworks." — I believe the best way to build reliable AI agents isn't picking the right library; it's understanding the underlying architecture patterns. Frameworks come and go. Good architecture compounds.
+> "Patterns over frameworks." I believe the best way to build reliable AI agents isn't picking the right library; it's understanding the underlying architecture patterns. Frameworks come and go. Good architecture compounds.
 
 ---
 
@@ -66,7 +66,7 @@ Senior Software Engineer at **Zillow** by day, agentic engineer by night. Neck-d
 [![GitHub](https://img.shields.io/badge/-Follow%20on%20GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/dunkinfrunkin)
 [![X (Twitter)](https://img.shields.io/badge/-@dunkinfrunkin-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/dunkinfrunkin)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dunkinfrunkin/)
-[![OpenAgentHub](https://img.shields.io/badge/-OpenAgentHub-4F46E5?style=flat-square&logo=globe&logoColor=white)](https://openagenthub.io)
+[![openagenthub](https://img.shields.io/badge/-openagenthub-4F46E5?style=flat-square&logo=globe&logoColor=white)](https://openagenthub.io)
 
 ---
 
