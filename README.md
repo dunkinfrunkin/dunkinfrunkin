@@ -25,6 +25,7 @@ Senior Software Engineer at **Zillow** by day, agentic engineer by night. Neck-d
 | 🧠 | **[openmem](https://github.com/dunkinfrunkin/openmem)** | Deterministic memory engine for AI agents. Because agents that forget are just expensive autocomplete. |
 | 🌊 | **[drift](https://github.com/dunkinfrunkin/drift)** | Fast, zero-dependency database migration tool. Everything Flyway paywalls undo, dry-run, cherry-pick, drift detection, schema diff is free and open source. |
 | 🐱 | **[mdcat](https://github.com/dunkinfrunkin/mdcat)** | Terminal pager for Markdown. Full colour, syntax highlighting, incremental search, and mouse support zero config. |
+| 🔍 | **[uncanny](https://github.com/dunkinfrunkin/uncanny)** | Offline AI-generated text detector. Sentence-level scoring, multiple detection methods, zero API calls. Privacy-first and CLI-native. |
 
 ---
 
